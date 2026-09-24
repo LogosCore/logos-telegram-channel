@@ -1,0 +1,8 @@
+github.com/logoscore/logos-golang-channel-core v0.4.0 h1:ZJZTr9xpE49uGKle3MbAp9Bv6p+oGFNKmyicE9ZGunI=
+github.com/logoscore/logos-golang-channel-core v0.4.0/go.mod h1:ZkowUO6hyOgMUKcnz0RN8C5Y0pD38V/GrP8EJcB1f1I=
+github.com/logoscore/logos-golang-protocol v0.1.0 h1:sAjjEDtjBIVLyqrReuH051LX1jfLJqjveOi4MwYNkfg=
+github.com/logoscore/logos-golang-protocol v0.1.0/go.mod h1:bmlZm5YA5cUTS9SJzMCggNuLSJ/6FJa5TmBzitScYx0=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405 h1:yhCVgyC4o1eVCa2tZl7eS0r+SDo693bJlVdllGtEeKM=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
+gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=
+gopkg.in/yaml.v3 v3.0.1/go.mod h1:K4uyk7z7BCEPqu6E+C64Yfv1cQ7kz7rIZviUmN+EgEM=
