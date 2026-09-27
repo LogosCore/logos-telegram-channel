@@ -18,7 +18,7 @@ Edit `configs/channel.example.yaml`:
 
 ## Message format (v0.1.0)
 
-Inbound from implant/session to bot:
+Inbound from minion/session to bot:
 
 ```text
 p:<profile-id>
